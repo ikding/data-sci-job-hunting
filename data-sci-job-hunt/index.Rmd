@@ -26,7 +26,7 @@ knit        : slidify::knit2slides
     * Work in the data labs division. Identify high-value opportunities and co-develop data science solutions with core business teams.
 * Dad of two (overly) energetic boys
 
---- .class #id 
+---
 
 ## Outline
 
@@ -41,12 +41,55 @@ knit        : slidify::knit2slides
 
 ## Choosing a company
 
-Now is a good time to be a data scientist! Many company want to expand their data science teams.
+Now is a good time to be a data scientist! 
 
-The choices can be overwhemling for candidates.
+* Many company want to expand their data science teams. (But not all of them know why.)
+* The profession as a whole is receiving a lot of attention (some may say hype.)
+* Wide array of open-source tools to choose from. 
+
+The choices of job opportunities can be overwhemling for candidates.
 
 * Scale of the company: startup (early vs. late-stage), established company
-* Industry: tech, social networking, retail, e-commerce, financial/banking, healthcare, manufacturing, consulting... etc
+* Industry: tech, social network, retail, e-commerce, financial/banking, healthcare, biomedicine, insurance, manufacturing, consulting... etc
+
+---
+
+# Choosing a company as a data scientist
+
+<div style='text-align: center;'>
+    <img height='450' src='./assets/img/chooseCompanyWisely.jpg' />
+</div>
+
+---
+
+### Criteria on choosing a company
+
+Advices from [Stitch Fix Blog](http://multithreaded.stitchfix.com/blog/2015/03/31/advice-for-data-scientists/):
+
+1. Work for a company that leverages data science for its strategic differentiation:
+
+    Company's core competency depends on its data and analytic capabilities; data science is more than a "supporting role".
+    
+2. Work for a company with great data:
+
+    There is a difference between "data" and "aspirations of data". Ideally you'll find a company that already has enough data to do interesting things.
+    
+3. Work for a company with green field opportunities:
+
+    Look for those companies that have a strong direction and strongly established data science teams, but have an array of problems they are solving for the first time.
+    
+---
+
+## Criteria on choosing a company
+
+On a more personal level, my criteria is fairly simple:
+
+1. I want to care about what the company is doing.
+2. I want to optimize for my own learning opportunities in hands-on data science.
+
+Caveat: "Don't judge a book by its cover".
+
+Be open-minded and throw away preconceived-notion about what you think a company does, or does not, do.
 
 ---
 

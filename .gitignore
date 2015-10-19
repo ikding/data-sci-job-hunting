@@ -7,7 +7,12 @@
 
 # RStudio files
 .Rproj.user/
+data-science-job-hunting.Rproj
 
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# Slidify rendering artifacts
+data-sci-job-hunt/index.html
+data-sci-job-hunt/index.md
