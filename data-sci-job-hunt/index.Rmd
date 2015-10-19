@@ -1,0 +1,72 @@
+---
+title       : Job Hunting Tips in Data Science
+subtitle    : 
+author      : I-Kang Ding
+job         : Data Scientist, Capital One Labs
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Who am I?
+
+* Data Incubator Alum, Winter 2015
+* PhD, Materials Science, Stanford (Next-Generation Solar Cells)
+* 1.5 Years at Alta Devices, solar cell startup in silicon valley
+    * 50-100 people, pre-revenue
+    * Both hands-on bench work and simulations
+* 2 years at Philips Lumileds, established LED company
+    * 5,000 employees, ~ US $1B annual revenue
+    * Work on data analytics and device characterization for R&D and production scales
+* Data Scientist at Capital One Labs (DC)
+    * 40,000 employees, top 10 retail bank in US
+    * Work in the data labs division. Identify high-value opportunities and co-develop data science solutions with core business teams.
+* Dad of two (overly) energetic boys
+
+--- .class #id 
+
+## Outline
+
+* Choosing a Company
+* Importance of Networking
+* Social Media in Job Search
+* Skill Sets
+* Types of Interviews
+* Salary Negotiation
+
+---
+
+## Choosing a company
+
+Now is a good time to be a data scientist! Many company want to expand their data science teams.
+
+The choices can be overwhemling for candidates.
+
+* Scale of the company: startup (early vs. late-stage), established company
+* Industry: tech, social networking, retail, e-commerce, financial/banking, healthcare, manufacturing, consulting... etc
+
+---
+
+## Misconception on startups #1
+
+Misconception: Startups are the shortcut to the fortune, fame and glory! Look at all these people profiled on techcrunch that become millionaires in their 20s!
+
+Truth: 
+
+1. 75% of the venture capital backed startup fail, so the median of the stock grants is zero. ("Venture capitalists bury their dead very quietly") [1]
+http://www.wsj.com/articles/SB10000872396390443720204578004980476429190
+
+2. Even if the company makes it, it's rare for the stock grants to be "life-changing", for someone this early in the career.
+
+---
+
+## Misconception on startup #2
+
+Misconception: Startup employees will work hard and learn a lot when I join a startup.
+
+Truth: partly true, but your mileage may vary.
+
+
