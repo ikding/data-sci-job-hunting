@@ -20,7 +20,7 @@ knit        : slidify::knit2slides
     * Both hands-on bench work and simulations
 * 2 years at Philips Lumileds, established LED company
     * 5,000 employees, ~ US $1B annual revenue
-    * Work on data analytics and device characterization for R&D and production scales
+    * Data analytics and device characterization for R&D and production scales
 * Data Scientist at Capital One Labs (DC)
     * 40,000 employees, top 10 retail bank in US
     * Work in the data labs division. Identify high-value opportunities and co-develop data science solutions with core business teams.
@@ -187,13 +187,174 @@ https://xkcd.com/1185/
 
 "Data science interviews are the worst because data science is interdisciplinary: code for "you have to know everything about all the disciplines."  Depending on the company and the team, your interview might look like a software developer’s interview, or it might look a like a statistician's interview, and the bad news is that virtually none of the material overlaps."
 
--- http://www.erinshellman.com/crushed-it-landing-a-data-science-job/
+- [Erin Shellman](http://www.erinshellman.com/crushed-it-landing-a-data-science-job/)
 
 ---
 
 ## Skills Required
 
 * Stats / Probability
-* Coding / Algorithms
-* Modeling and Machine Learning
+* Data Engineering / System Architecture
+* Software Engineering
+* Modeling / Machine Learning
+* Data Visualization / Web Dev
 * Domain Knowledge
+* Business Acumen and Communication
+
+Know your skill profile, your interest, and know what the company is looking for. If you found yourself lacking on aspects that the company absolutely need, it's not a good fit.
+
+---
+
+## Skills Required
+
+Do you excel at all five? Congratulations! You are a mythical creature!
+
+<div style='text-align: center;'>
+    <img height='400' src='./assets/img/RaptorOnShark.jpg' />
+</div>
+
+Reality: 
+
+You don't need a single individual to do all five jobs, but you need to build a team that hopefully will cover all aspects.
+
+---
+
+## Types of Interviews
+
+* Coding Challenge
+* Data Analysis Challenge
+* Technical Interview (Phone or On-site)
+* Business Interview
+* Behavioral Interview
+
+---
+
+## Types of Interviews
+
+Coding Challenge:
+
+You are expected to solve some computation or data manipulation problem, using a language of your choice. Ideally, your solution not only have to be correct, but also have to scale well. If you can solve a problem in O(n) time, don’t solve it in O(n^2). 
+
+Action: play with [HackerRank](http://www.hackerrank.com) or [leetcode](http://www.leetcode.com) (but don't go overboard!)
+
+---
+
+## Types of Interviews
+
+Data Aanalysis Challenge:
+
+Test your skills on data manipulation, cleaning, and predictive modeling. The questions often
+contain both descriptive and predictive components. 
+
+Descriptive: What is the average amount of time a bike spends at a station?
+
+Predictive: Please predict the number of bicycles arriving at a specific station during a specific time span.
+
+Things to know:
+
+* You often can stick with simpler models (eg. linear or logistic regression) to solve the problem.
+* Your goal was not only to have good grasp on the data munging and modeling, but also provide a written document to explain, in laymen’s terms, what you have found. This is because, as a data scienEst, you are often expected to communicate the results with other non-technical audiences. 
+* You must be able to analyze data with code (eg. R, python, and maybe MATLAB) – point-and-clock programs such as Excel won't cut it! I did all my analysis in R and wrote reports in RMarkdown, but Python / iPython notebook will work too. 
+
+Action: Play with [kaggle Titanic challenge](https://www.kaggle.com/c/titanic) to understand the type of questions asked in a data challenge.
+
+---
+
+## Types of Interviews
+
+Technical Interview (Phone or On-site)
+
+* The technical components of the phone and on-site interviews are usually less hands-on. The interviewers will usually not ask you to derive things since there is not enough time (but YMMV); they may ask you to write short codes on the fly (via screen share or white board) as a mini-version of the coding / data analysis interviews. 
+
+* The questions ranges widely depending on the interviewer, the company, and the position you are applying to. Understand your audience and get an idea of what they are looking for.
+
+* No matter what the questions are asked, it is important to make the interview "interactive". You are talking with a live human being, so most of the time, you not only have to solve the problems correctly, but also have to "think out loud" so that the interviewer can follow your line of thought. This is the conversational version of "show your work". 
+
+Action: conduct mock-up interviews with your friends and colleagues. Know your audience and understand what the company is looking for; but also understand that you probably won't expect any of the questions.
+
+---
+
+## Types of Interviews
+
+Business Case Interviews
+
+* Only some companies have this. You should only prepare for it if you are pretty certain that this will be included in the interview.
+
+* The questions ranges from more number-specific (breakeven analysis: given the following assumptions on fixed and variable costs, how many units of product do you need to sell to break even?) to more open ended questions that involved a lot of back‐and-forth discussions with the interviewers (example: imagine that you have access to half of the US credit card transaction data. How do you use this data to consult your client, a big cafe chain, on which city in US to open their new branches?)
+
+Action: checkout [case interview tutorials](http://www.capitalone.com/careers/analyst/assessment/) available on line, which gives you a flavor of the questions that may be involved.
+
+---
+
+## Types of Interviews
+
+Behavioral Interview:
+
+* The behavioral questions are asked to figure out if you work will with others, how you handle conflicts, etc. Employers would prefer to have a crystal ball to figure out how you will behave in the future, but since they don’t have that, the next best thing they can do is to see how you behaved in the past in order to predict your future with them. 
+
+* But, when you answer this kind of question, it is important to think of examples that back up your answer. Saying "I work well with others"" is one thing; saying "in my last project I worked with three different research groups to bring the project to completion" is much better.
+
+* One popular approach to answer this kind of quesEons is to use the STAR (Situation / Task / Action / Result) format. There are a wide array of internet resources available on this topic, which I won’t bother repeating. 
+
+Action: google "behavioral interview" and understand the STAR format. Think about your past experiences and come up with answers for some popular questions (teamwork, conflict resolution, biggest strengths and weaknesses, etc.)
+
+---
+
+## Types of Interviews
+
+Your question for them:
+
+* A job interview is a two-way process in which two parties (you and your potential employer) decide if they want to "go steady". Once you take their job offer you will likely spend several years with them, so this is not a decision to be taken lightly.
+
+* During the phone and on-site interview, it is also your best chance to ask questions about the company and the job. This not only shows them that you are genuinely interested in the job (and have done your homework before the interview), but also is your best chance to collect information about the company. 
+
+* Ideally you have done some homework before your on‐site interview so that the Q&A time can be spent on things that aren't public knowledge.
+
+---
+
+## Types of Interviews
+
+Example questions for employers:
+
+1. What would be my main responsibility if I am hired? What are some of the example projects I may be working on? 
+
+2. What is your day to day like? 
+
+3. What are the personal attributes that set a successful employee apart from others? 
+
+4. What does a successful first‐year look like for new hire in this position? 
+
+5. How did you start in this company / why did you decide to work here? 
+
+6. Things that you like the most and the least about working at this company? 
+
+7. When can I expect to hear from you after this interview? – ask either the hiring manager or the HR this question to have a better sense about the timeline they make hiring decisions. 
+
+---
+
+## Salary Negotiation
+
+Highly recommended read, especially if you think there will be offers coming: ["Negotiating Your Salary: How To Make $1000 a Minute" (Chapman)](http://www.amazon.com/Negotiating-Your-Salary-Minute-Revised/dp/1580083102)
+
+Older version in electronic format can be found online.
+
+<div style='text-align: center;'>
+    <img height='300' src='./assets/img/NegotiatingYourSalary.jpg' />
+</div>
+
+---
+
+## Salary Negotiation
+
+Salary making rule:
+
+1. Postpone salary talk until there's an offer
+2. Don't do salary negotation over the email - phone or in-person preferred
+3. Know your market value, your own range, and your BATNA (Best Alternative to a Negotiated Agreement).
+    * Ideal
+    * Satisfactory
+    * No-go
+    
+---
+
+## Questions?
