@@ -15,8 +15,8 @@ knit        : slidify::knit2slides
 
 * Data Incubator Alum, Winter 2015
 * PhD, Materials Science, Stanford Univ. (Next-Generation Solar Cells)
-* 1.5 Years at Alta Devices, solar cell startup
-    * 50-100 people, series C startup
+* 1.5 Years at Alta Devices, solar cell start-up
+    * 50-100 people, series C start up
     * Both hands-on bench work and simulations
 * 2 years at Philips Lumileds, established LED company
     * 5,000 employees, ~ US $1B annual revenue
@@ -43,10 +43,10 @@ Now is a good time to be a data scientist!
 * The profession as a whole is receiving a lot of attention.
 * Wide array of open-source tools to choose from.
 
-The choices of job opportunities can be overwhemling for candidates.
+The choices of job opportunities can be overwhelming for candidates.
 
-* Scale of the company: startup (early vs. late-stage), established company
-* Industry: tech, social network, retail, e-commerce, financial/banking, healthcare, biomedicine, insurance, manufacturing, consulting... etc
+* Scale of the company: start-up (early vs. late-stage), established company
+* Industry: tech, social network, retail, e-commerce, financial/banking, healthcare, bio-medicine, insurance, manufacturing, consulting... etc
 
 ---
 
@@ -60,7 +60,7 @@ The choices of job opportunities can be overwhemling for candidates.
 
 ## Criteria on choosing a company #1
 
-Advices from [Stitch Fix Blog](http://multithreaded.stitchfix.com/blog/2015/03/31/advice-for-data-scientists/):
+Advice from [Stitch Fix Blog](http://multithreaded.stitchfix.com/blog/2015/03/31/advice-for-data-scientists/):
 
 1. Work for a company that leverages data science for its strategic differentiation:
 
@@ -123,7 +123,7 @@ Connections in your professional network can help you by:
 * Give you, within reason, an insider-view on a company that you can't discover on the internet. 
     * Good: "Yeah, our company is in data science consulting, but most of our clients are in the same city, so the travel is not that bad."
     
-    * Bad: "Yeah, I heard Evil Corp's data engineer recently left, so their data scientist proably have to do both DS and DE's job."
+    * Bad: "Yeah, I heard Evil Corp's data engineer recently left, so their data scientist probably have to do both DS and DE's job."
     
     * Worse: "Yeah, the company's engineering staff is undergoing exodus. All the job postings on website are from 6 months ago."
     
@@ -157,7 +157,7 @@ Connections in your professional network can help you by:
 * You can set up the job alerts so that it will be delivered daily to your email. I set up alerts for "Data Scientist" jobs in San Francisco bay area, that would be a pretty wide net in itself. 
 * You can also set up company specific alerts such as: “Company:(Capital One) (Data Scientist OR Data Engineer) jobs”
 
-**Action**: set up job alerts for targeted geographics and/or companies
+**Action**: set up job alerts for targeted geographies and/or companies
 
 ---
 
@@ -170,9 +170,9 @@ Connections in your professional network can help you by:
 
 ## Useful websites - Crunchbase (Startup Funding DB)
 
-* Crunchbase has a fairly comprehensive list of startups fund-raising.
+* Crunchbase has a fairly comprehensive list of start-ups fund-raising.
 * Judging from last funding and employee size, you can gauge the length of the runway.
-* Useful for startups; not useful for public companies
+* Useful for start ups; not useful for public companies
 
 ---
 
@@ -268,7 +268,7 @@ Action: conduct mock-up interviews with your friends and colleagues. Know your a
 
 * Only some companies have this. You should only prepare for it if you are pretty certain that this will be included in the interview.
 
-* The questions ranges from more number-specific (breakeven analysis: given the following assumptions on fixed and variable costs, how many units of product do you need to sell to break even?) to more open ended questions that involved a lot of back‐and-forth discussions with the interviewers (example: imagine that you have access to half of the US credit card transaction data. How do you use this data to consult your client, a big cafe chain, on which city in US to open their new branches?)
+* The questions ranges from more number-specific (break-even analysis: given the following assumptions on fixed and variable costs, how many units of product do you need to sell to break even?) to more open ended questions that involved a lot of back‐and-forth discussions with the interviewers (example: imagine that you have access to half of the US credit card transaction data. How do you use this data to consult your client, a big cafe chain, on which city in US to open their new branches?)
 
 Action: checkout [case interview tutorials](http://www.capitalone.com/careers/analyst/assessment/) available on line, which gives you a flavor of the questions that may be involved.
 
@@ -340,16 +340,16 @@ Older version in electronic format can be found online.
 Salary making rule:
 
 1. Postpone salary talk until there's an offer
-2. Don't do salary negotation over the email - phone or in-person preferred
+2. Don't do salary negotiation over the email - phone or in-person preferred
 3. Know your market value, your own range, and your BATNA (Best Alternative to a Negotiated Agreement).
     * Ideal
     * Satisfactory
     * No-go
 
-Read the Chapman book for more details!
+Read the Chapman book for details!
 
 ---
 
 ## Questions?
 
-Slide is available at: http://ikding.github.io/data-science-job-hunting/
+Slide is available at: http://ikding.github.io/data-sci-job-hunting/
