@@ -1,7 +1,7 @@
 ---
 title       : Job Hunting Tips in Data Science
 subtitle    : 
-author      : I-Kang Ding (Data Scientist, Capital One Labs)
+author      : I-Kang Ding (丁逸康)
 job         : Oct 2015
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -13,17 +13,17 @@ knit        : slidify::knit2slides
 
 ## [Who am I?](http://www.linkedin.com/in/ikding)
 
-* Data Incubator Alum, Winter 2015
 * PhD, Materials Science, Stanford Univ. (Next-Generation Solar Cells)
-* 1.5 Years at Alta Devices, solar cell start-up
+* 1.5 Years at [Alta Devices](http://www.altadevices.com/), solar cell start-up
     * 50-100 people, series C start up
     * Both hands-on bench work and simulations
-* 2 years at Philips Lumileds, established LED company
-    * 5,000 employees, ~ US $1B annual revenue
+* 2 years at [Philips Lumileds](http://www.lumileds.com/), established LED company
+    * 5,000 employees, US $1B+ annual revenue
     * Data analytics and device characterization for R&D and production scales
-* Data Scientist at Capital One Labs
+* Data Scientist at [Capital One Labs](http://www.capitalonelabs.com)
     * 40,000 employees, top 10 retail bank in US
     * Work in the data labs division. Identify high-value opportunities and co-develop data science solutions with core business teams.
+* Views expressed in this talk is my own.
 
 ---
 
@@ -37,7 +37,7 @@ knit        : slidify::knit2slides
 
 ## Choosing a company
 
-Now is a good time to be a data scientist! 
+Now (2015) is a good time to be a data scientist! 
 
 * Many company want to expand their data science teams.
 * The profession as a whole is receiving a lot of attention.
@@ -90,7 +90,7 @@ Caveat: "Don't judge a book by its cover".
 
 Be open-minded and throw away preconceived-notion about what you think a company does, or does not, do.
 
-Action: think long and hard about what your own set of criteria is.
+**Action**: think long and hard about what your own set of criteria is.
 
 ---
 
@@ -118,7 +118,7 @@ Ask people who may have more information. "Trust, but verify."
 
 Connections in your professional network can help you by:
 
-* Give you a heads-up on hiring situations (current or future). - "Our executive team is actively raising money now and had good progress; we will get more headcounts next quarter"
+* Give you a heads-up on hiring situations (current or future): "Our executive team is actively raising money now and had good progress; we will get more headcounts next quarter"
 
 * Give you, within reason, an insider-view on a company that you can't discover on the internet. 
     * Good: "Yeah, our company is in data science consulting, but most of our clients are in the same city, so the travel is not that bad."
@@ -136,9 +136,8 @@ Connections in your professional network can help you by:
 ## Useful websites: LinkedIn (Professional Network)
 
 * Immediate connections:
-    * Your current and former colleagues
+    * Your current and former colleagues / classmates
     * Your friends
-    * Cohorts of data incubator
 
 * Extended connections:
     * 2nd degree connections on LinkedIn
@@ -172,7 +171,11 @@ Connections in your professional network can help you by:
 
 * Crunchbase has a fairly comprehensive list of start-ups fund-raising.
 * Judging from last funding and employee size, you can gauge the length of the runway.
-* Useful for start ups; not useful for public companies
+* Useful for start ups; not necessarily so for public companies (you can often find more publicly-available information)
+
+<div style='text-align: center;'>
+    <img height='250' src='./assets/img/crunchBaseUber.png' />
+</div>
 
 ---
 
@@ -199,10 +202,10 @@ https://xkcd.com/1293/
 * Data Visualization / Web Dev
 * Data Engineering / System Architecture
 * Software Engineering
-* Domain Knowledge
+* Domain Knowledge (aka. Subject Matter Expertise)
 * Business Acumen and Communication
 
-Know your skill profile, your interest, and know what the company is looking for. If you found yourself lacking on aspects that the company absolutely need, it's not a good fit.
+**Action:** Know your skill profile, your interest, and know what the company is looking for during earlier rounds of interviews. If you found yourself lacking on aspects that the company absolutely need, it's not a good fit.
 
 ---
 
@@ -234,23 +237,22 @@ You don't need a single individual to do all the jobs, but you need to build a t
 
 You are expected to solve some computation or data manipulation problem, using a language of your choice. Ideally, your solution not only have to be correct, but also have to scale well. If you can solve a problem in $O(n)$ time, don’t solve it in $O(n^2)$. 
 
-Action: play with [HackerRank](http://www.hackerrank.com) or [leetcode](http://www.leetcode.com) (but don't go overboard!)
+**Action:** play with [HackerRank](http://www.hackerrank.com) or [leetcode](http://www.leetcode.com). But don't go overboard! Data Scientist's algorithm interview is often not as hard-core as that of a software engineer. (but YMMV - your mileage might vary)
 
 ---
 
 ## Data Aanalysis Challenge
 
-* Test your skills on data manipulation, cleaning, and predictive modeling. The questions often
-contain both descriptive and predictive components. 
+* Test your skills on data manipulation, cleaning, and predictive modeling. The questions often contain both descriptive and predictive components. 
     * Descriptive: What is the average amount of time a bike spends at a station?
-    * Predictive: Please predict the number of bicycles arriving at a specific station during a specific time span.
+    * Predictive: predict # of bikes arriving at each station during a specific time span.
 
 * Things to know:
-    * You often can stick with simpler models (eg. linear or logistic regression).
+    * You often can stick with simpler models (e.g. linear or logistic regression), but be prepared to rationalize the choices you made on model selection.
     * Your goal was not only on the data munging and modeling, but also provide a written document to explain, in laymen’s terms, what you have found. - Data scientists often have to communicate the results with other non-technical audiences.
-    * You must be able to analyze data with code (eg. R, python). I did all my analysis with R / RMarkdown, but Python / iPython notebook will work too. 
+    * You must be able to analyze data with code (e.g. R/Rmarkdown, python / ipython notebook).
 
-Action: Play with [kaggle Titanic challenge](https://www.kaggle.com/c/titanic) to understand the type of questions that may be asked in a data analysis challenge.
+**Action:** Play with [kaggle Titanic challenge](https://www.kaggle.com/c/titanic) to understand the type of questions that may be asked in a data analysis challenge.
 
 ---
 
@@ -260,7 +262,7 @@ Action: Play with [kaggle Titanic challenge](https://www.kaggle.com/c/titanic) t
 
 * No matter what the questions are asked, it is important to make the interview "interactive". You are talking with a live human being, so most of the time, you not only have to solve the problems correctly, but also have to "think out loud" so that the interviewer can follow your line of thought. This is the conversational version of "show your work". 
 
-Action: conduct mock-up interviews with your friends and colleagues. Know your audience and understand what the company is looking for; but also understand that you probably won't expect any of the questions.
+**Action:** conduct mock-up interviews with your friends and colleagues. Know your audience and understand what the company is looking for; but also accept the fact that you probably won't expect any of the questions.
 
 ---
 
@@ -282,7 +284,7 @@ Action: checkout [case interview tutorials](http://www.capitalone.com/careers/an
 
 * One popular approach to is to use the STAR (Situation / Task / Action / Result) format. There are a wide array of internet resources available on this topic. 
 
-Action: google "behavioral interview" and understand the STAR format. Think about your past experiences and come up with answers for some popular questions (teamwork, conflict resolution, biggest strengths and weaknesses, etc.)
+**Action:** google "behavioral interview" and understand the STAR format. Think about your past experiences and come up with answers for some popular questions (teamwork, conflict resolution, biggest strengths and weaknesses, etc.)
 
 ---
 
@@ -293,7 +295,7 @@ Action: google "behavioral interview" and understand the STAR format. Think abou
 * Make sure you have done some research on the company (and the interviewers if you have time) before your on‐site interview, so that the Q&A time can be spent on things that aren't public knowledge.
 
 * Well-thought and well-prepared questions for them will:
-    * shows them that you are genuinely interested in the job (and have done your homework) before the interview)
+    * shows them that you are genuinely interested in the job and the company (and have done your homework before the interview)
     * provide you the best chance to collect information to make an informed decision.
 
 * Having no questions at all does NOT show well - you will be passed as not-prepared, not-interested, or both.
