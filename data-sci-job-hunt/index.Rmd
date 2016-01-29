@@ -1,8 +1,8 @@
 ---
 title       : Job Hunting Tips in Data Science
 subtitle    : 
-author      : I-Kang Ding (丁逸康)
-job         : Oct 2015
+author      : I-Kang Ding
+job         : ikding@gmail.com
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -18,8 +18,8 @@ knit        : slidify::knit2slides
     * 50-100 people, series C start up
     * Both hands-on bench work and simulations
 * 2 years at [Philips Lumileds](http://www.lumileds.com/), established LED company
-    * 5,000 employees, US $1B+ annual revenue
-    * Data analytics and device characterization for R&D and production scales
+    * 5,000 employees, top 5 LED manufacturer in the world.
+    * Data analysis and device characterization for R&D and production scales
 * Data Scientist at [Capital One Labs](http://www.capitalonelabs.com)
     * 40,000 employees, top 10 retail bank in US
     * Work in the data labs division. Identify high-value opportunities and co-develop data science solutions with core business teams.
@@ -37,7 +37,7 @@ knit        : slidify::knit2slides
 
 ## Choosing a company
 
-Now (2015) is a good time to be a data scientist! 
+Now is a good time to be a data scientist! 
 
 * Many company want to expand their data science teams.
 * The profession as a whole is receiving a lot of attention.
@@ -241,7 +241,7 @@ You are expected to solve some computation or data manipulation problem, using a
 
 ---
 
-## Data Aanalysis Challenge
+## Data Analysis Challenge
 
 * Test your skills on data manipulation, cleaning, and predictive modeling. The questions often contain both descriptive and predictive components. 
     * Descriptive: What is the average amount of time a bike spends at a station?
